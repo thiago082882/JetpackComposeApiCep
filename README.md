@@ -1,6 +1,4 @@
-# Jetpack Compose Api Via Cep
-
-# <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/447/447031.png"> # Jetpack Compose Api Via Cep
+# <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/447/447031.png"> Jetpack Compose Api Via Cep
 
 
 <div align="center">
